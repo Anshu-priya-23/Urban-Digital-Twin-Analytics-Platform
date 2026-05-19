@@ -1,5 +1,6 @@
 **Project Title**: Smart City Urban Traffic & Air Quality Analytics Platform
-The Problem: Modern cities struggle with interconnected issues. Heavy traffic causes delays, which in turn spikes dangerous air pollution (PM2.5 and NO2). City planners need data-driven insights to know where and when to intervene.
+
+**The Problem**: Modern cities struggle with interconnected issues. Heavy traffic causes delays, which in turn spikes dangerous air pollution (PM2.5 and NO2). City planners need data-driven insights to know where and when to intervene.
 
 **The Solution**: I built a data pipeline that integrates traffic counts, weather indices, and pollution metrics.
 
